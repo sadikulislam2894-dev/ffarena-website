@@ -1,0 +1,24 @@
+{
+  "name": "ffarena-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadikulislam2894-dev/ffarena-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sadikulislam2894-dev/ffarena-website/issues"
+  },
+  "homepage": "https://github.com/sadikulislam2894-dev/ffarena-website#readme",
+  "devDependencies": {
+    "sharp-cli": "^5.2.0"
+  }
+}
